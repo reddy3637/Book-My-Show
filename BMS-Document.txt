@@ -17,7 +17,7 @@ Step 1: Basic Setup
 ================================================================
 Open below ports for the Security Group attached to the above VM
 Type                  Protocol   Port range                              
-SMTP                  TCP           25 
+SMTP                  TCP           25  
 (Used for sending emails between mail servers)
 
 Custom TCP        TCP		3000-10000 
